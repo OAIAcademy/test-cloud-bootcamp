@@ -9,5 +9,10 @@ def index():
     return render_template('test-0.html')
 
 
+@app.route("/my_page")
+def my_page():
+    return render_template('test-1.html')
+
+
 if __name__ == "__main__":
     app.run(debug=True)
