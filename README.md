@@ -1,3 +1,6 @@
 # test-cloud-bootcamp
 
-## This repo is for educational purpose
+## Introduction
+
+This repo runs with Python 3.9.
+
