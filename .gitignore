@@ -120,7 +120,7 @@ inter_env/*
 
 
 #html
-*.html
+#*.html
 
 #exe
 *.exe
